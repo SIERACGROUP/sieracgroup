@@ -3133,6 +3133,11 @@ input, select, textarea {
 		}
 
 /* Table */
+#contact {
+	a.hover {
+		color:"red";
+	}
+}
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
