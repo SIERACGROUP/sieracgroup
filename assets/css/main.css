@@ -3133,11 +3133,9 @@ input, select, textarea {
 		}
 
 /* Table */
-#contact {
-	a.hover {
-		color:red;
+	a.table-wrapper:hover {
+	color:red;
 	}
-}
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -3204,6 +3202,7 @@ input, select, textarea {
 			table.alt tfoot {
 				border-top: 0;
 			}
+
 
 /* Wrapper */
 
