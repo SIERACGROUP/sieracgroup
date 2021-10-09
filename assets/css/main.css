@@ -3135,7 +3135,7 @@ input, select, textarea {
 /* Table */
 #contact {
 	a.hover {
-		color:"red";
+		color:red;
 	}
 }
 
