@@ -3917,10 +3917,10 @@ input, select, textarea {
 }
 
 a.icon:hover {
-  color: red;
+  color: #195874;
 	}
 
 a.icon {
-	color:#195874;
+	color: #f2f2f2;
 	}
 
