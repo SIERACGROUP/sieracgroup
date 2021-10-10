@@ -3915,9 +3915,12 @@ input, select, textarea {
 .toper {
 	background-color:#f2f2f2;
 }
+
+a.icon:hover {
+  color: red;
+	}
+
 a.icon {
 	color:#195874;
 	}
-a.icon:hover {
-  color: red;
-}
+
