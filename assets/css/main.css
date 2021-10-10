@@ -3918,3 +3918,6 @@ input, select, textarea {
 a.icon {
 	color:#195874;
 	}
+a.icon:hover {
+  color: red;
+}
